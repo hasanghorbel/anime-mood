@@ -1,11 +1,11 @@
 # Anime-Mood
-basic anime recommendation (still not perfect)
+## Anime recommendation based on your mood
 
-#### Install requirements with command:
+### Install requirements with command:
 ```
 pip install -r requirements.txt
 ```
-#### Then run command:
+### Then run command:
 ```
 python main.py
 ```
