@@ -10,4 +10,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![test](https://github.com/IsekaiCode/Anime-Mood/assets/109307799/8ecb07b1-7a1f-46e6-96c7-a05604b53dd4)
+![test](https://github.com/IsekaiCode/Anime-Mood/assets/109307799/b393c789-1698-490a-94e0-a5d897775289)
