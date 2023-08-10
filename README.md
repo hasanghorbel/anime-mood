@@ -1,4 +1,4 @@
-# Anime-Mood
+# Anime Mood
 ## Anime recommendation based on your mood
 
 ### Install requirements with command:
